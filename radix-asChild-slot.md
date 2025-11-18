@@ -1,5 +1,5 @@
 
-# Radix UI: `asChild` and `Slot` Explained (Easy Technical Language)
+# Radix UI: `asChild` and `Slot` Explained 
 
 ## What are `asChild` and `Slot`?
 
@@ -208,7 +208,7 @@ The Slot expects **exactly one child**, which becomes the trigger.
 
 ---
 
-## Final Summary (Very Easy)
+## Final Summary
 
 `asChild` =  
 "Don't create your own element. Use the one I provide."
